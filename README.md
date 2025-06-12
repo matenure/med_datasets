@@ -34,4 +34,5 @@ OmniMedVQA https://huggingface.co/datasets/foreverbeliever/OmniMedVQA
 
 
 ## Diagnosis/Evidence
-https://github.com/mila-iqia/ddxplus
+DDXplus https://github.com/mila-iqia/ddxplus
+RareBench https://huggingface.co/datasets/chenxz/RareBench
