@@ -14,13 +14,13 @@ MMLU-Pro-Health https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
 NLI4CT https://sites.google.com/view/nli4ct/semeval-2024?authuser=0
 
 ## EHR based QA
-MIMIC-Instr https://github.com/zzachw/llemr
+MIMIC-Instr https://github.com/zzachw/llemr  (generated from MIMIC-IV)
 
 MedAlign https://github.com/som-shahlab/medalign
 
 TIMER https://arxiv.org/pdf/2503.04176v1  (data not yet released)
 
-emrQA https://github.com/panushri25/emrQA
+emrQA https://github.com/panushri25/emrQA   (generated from i2b2)
 
 ## Multimodal QA
 
