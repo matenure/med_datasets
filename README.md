@@ -36,3 +36,6 @@ OmniMedVQA https://huggingface.co/datasets/foreverbeliever/OmniMedVQA
 ## Diagnosis/Evidence
 DDXplus https://github.com/mila-iqia/ddxplus
 RareBench https://huggingface.co/datasets/chenxz/RareBench
+
+## Information Extraction (ADRs, Relations, Medications, Deidentification)
+n2c2/i2b2  https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/
